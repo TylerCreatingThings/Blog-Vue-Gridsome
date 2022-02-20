@@ -7,15 +7,6 @@
 RUN THIS IN BASH TERMINAL BEFORE RUNNING gridsome develop: 
 export NODE_OPTIONS=--openssl-legacy-provider
 
-Amazon Affiliate Link:
-https://associates.amazon.ca/home/textlink/general?ac-ms-src=ac-nav
-
-
-Instagram Account for Letters from a coder:
-- Khush give guidance for reels.
-- Every time I write something I can post to instagram?
-- 
-
 ## Built with
 - [Gridsome 0.7](https://gridsome.org/)
 - [Windi CSS 3](https://windicss.org/) (top of Tailwind CSS v2)
